@@ -1,5 +1,4 @@
-# Power-Bi Dashboard Project
-# 🚗🔋 EV Charging Pattern Analysis  
+# Power-Bi Dashboard Project  
 
  📌 Project Overview  
 With the rise of electric vehicles (EVs), optimizing charging infrastructure is crucial for efficient energy consumption and station placement. This project analyzes EV charging patterns using **Power BI**, providing insights into **charging frequency, duration, energy consumption trends, and high-demand locations**.  
